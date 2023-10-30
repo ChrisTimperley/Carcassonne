@@ -1,7 +1,11 @@
+.java-version
+
+.vscode
+
 # Binaries
 bin/
 target/
- 
+
 # Eclipse
 .settings/
 *.project
